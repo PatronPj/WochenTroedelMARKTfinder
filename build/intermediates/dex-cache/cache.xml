@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1ceeec6d8c6a48aed47e4712273857628a34b520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_124122ca8d9ed21adfda51bd96643e47d7f24066/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27817500586893687f35a2d97b2c5c39a6e56011">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/osmdroid-android-5.5-release_f27cca46d16471c315b4b579e30192642e8d31dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_8548a55f2c6bf8317180b0212e3f393d399c8acd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b309776f65ed5a9f27e93e0a4bd502f4bd8c64f3">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_73480705114cd8ece80b449e9a9a899cc59c673a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_aee61a9f99e2b86489a397bf5d1d35a574f16e0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_53b53c4be537ccf871e6c6b1691d007bed24d0b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="828d64303118b60908ab30b935b9bceaab333f85">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e471c39d7fdc7bd47a6f0e20f510bbc9ffdb5419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cihanozturk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/cihanozturk/Desktop/B54.1 MA Technik mobiler Systeme (SL) Z3 WiSe2016/projects/WochenTroedelMarktFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_dfb0f1c79408d98944508783a7655893a73cb502/classes.dex" />
+    </item>
+
+</items>

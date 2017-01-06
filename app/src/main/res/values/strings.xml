@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WochenTroedelMarktFinder</string>
+    <string name="str_btn_start">Start</string>
+    <string name="str_tv_titel">Titel.......</string>
+    <string name="str_offlineMode">Offline Modus</string>
+    <string name="str_onlineMode">Online Modus</string>
+    <string name="str_filter">Filter</string>
+    <string name="str_credits">Credits</string>
+
+
+    <string name="str_btn_gps">GPS</string>
+
+</resources>
